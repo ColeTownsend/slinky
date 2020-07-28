@@ -22,7 +22,7 @@
   "homepage": "https://github.com/finchalyzer/slinky",
   "devDependencies": {
     "@types/lodash-es": "^4.17.0",
-    "lodash-es": "^4.17.4",
+    "lodash-es": "^4.17.14",
     "rollup": "^0.52.0",
     "rollup-plugin-cleanup": "^2.0.0",
     "rollup-plugin-node-resolve": "^3.0.0",
